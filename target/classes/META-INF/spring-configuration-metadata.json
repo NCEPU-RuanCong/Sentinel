@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "nacos.server",
+      "type": "com.alibaba.csp.sentinel.dashboard.nacos.NacosConfigProperties",
+      "sourceType": "com.alibaba.csp.sentinel.dashboard.nacos.NacosConfigProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "nacos.server.group-id",
+      "type": "java.lang.String",
+      "sourceType": "com.alibaba.csp.sentinel.dashboard.nacos.NacosConfigProperties"
+    },
+    {
+      "name": "nacos.server.ip",
+      "type": "java.lang.String",
+      "sourceType": "com.alibaba.csp.sentinel.dashboard.nacos.NacosConfigProperties"
+    },
+    {
+      "name": "nacos.server.namespace",
+      "type": "java.lang.String",
+      "sourceType": "com.alibaba.csp.sentinel.dashboard.nacos.NacosConfigProperties"
+    },
+    {
+      "name": "nacos.server.port",
+      "type": "java.lang.String",
+      "sourceType": "com.alibaba.csp.sentinel.dashboard.nacos.NacosConfigProperties"
+    }
+  ],
+  "hints": []
+}
